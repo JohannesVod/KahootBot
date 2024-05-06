@@ -63,7 +63,7 @@ def main():
     with open(args.quiz_file, 'r') as file:
         lines = file.readlines()
         quiz_title = lines[0].strip("\n").strip('#').strip()
-        print("using quiz: {quiz_title}")
+        print(f"using quiz: {quiz_title}")
         solutions = []
         for l in lines[1:]:
             splt = l.split("|")

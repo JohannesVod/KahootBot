@@ -1,0 +1,10 @@
+## Grundlegendes zu OpenGL ## 
+Richtig
+Alle Punkte des Dreiecks bei Bedarf mit interpolierten Werten zu versorgen.
+u+v+w=1
+Richtig
+Dreieck mit den Punkten A, B und C wird konstruiert (gegen Uhrzeigersinn)
+Davon ableiten, Canvas c erzeugen, initDisplay(c), renderLoop überschreiben
+M=IPTRS: Rückwärts, denn multipliziert wird von rechts.
+Zeichnet einen Würfel vor der Kamera versetzt und rotiert ihn in x und y.
+Flächen werden nach Zielraster diskretisiert und baryzentrisch interpoliert
