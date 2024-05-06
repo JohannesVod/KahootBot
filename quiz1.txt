@@ -1,0 +1,11 @@
+## QUIZ 1 ##
+sich alle damit boolschen Funktionen bilden lassen
+Richtig
+Falsch
+Richtig
+...die Unerfüllbarkeit einer boolschen Funktion nachweisen | ...Nachweisen, ob eine boolsche Funktion eine Tautologie ist | ...Nachweisen, ob eine boolsche Funktion eine Kontradiktion ist
+{a,b,¬b}
+K∪{{a,¬c,c},{a,¬b,b}}
+Falsch
+Richtig
+Richtig
