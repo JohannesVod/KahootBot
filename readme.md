@@ -27,7 +27,7 @@ This script automates participation in Kahoot quizzes by providing answers to qu
 
 2. Run the script with the following command:
     ```
-    python kahoot_bot.py <quiz_file> [--sleep <milliseconds>]
+    python bot.py <quiz_file> [--sleep <milliseconds>]
     ```
     - `<quiz_file>`: Path to the text file containing the quiz questions and solutions.
     - `--sleep <milliseconds>` (optional): Milliseconds to sleep between iterations (default: 1000).
